@@ -1,0 +1,21 @@
+{
+  "name": "A Church Digital Record",
+  "short_name": "ACDR",
+  "icons": [
+    {
+    "src": "images/ics.jpg",
+    "sizes": "144x144",
+    "type": "image/png"
+  },
+  {
+    "src": "images/ics2.jpg",
+    "sizes": "512x512",
+    "type": "image/png"
+  }],
+   "start_url":"index.html",
+  "display":"standalone",
+  "orientation":"portrait",
+  "description": "A Digital Record Software.",
+  "background_color": "#000000",
+  "theme_color": "#0a4981"
+}
